@@ -1,5 +1,13 @@
 # 🏥 AI-Based Early Disease Prediction System Using Machine Learning
 
+## Live Demo
+
+https://ai-based-early-disease-prediction.onrender.com
+
+## GitHub Repository
+
+https://github.com/nivedyab916/AI-Based-Early-Disease-Prediction
+
 ## 📌 Project Overview
 
 The AI-Based Early Disease Prediction System is a web application that predicts whether a patient is diabetic based on medical parameters using a Machine Learning model. The system helps in the early detection of diabetes by analyzing patient health data and providing prediction results along with risk levels and health recommendations.
